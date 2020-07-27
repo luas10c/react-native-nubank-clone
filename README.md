@@ -10,6 +10,10 @@ abra seu terminal no diretório que foi clonado esse repositório e digite o com
 ```cmd
   npm start
 ```
+
 ### Informações
 > Instutor: &nbsp; Diego Fernandes - Rocketseat   
-> Fonte: &nbsp; Youtube
+> Fonte: &nbsp; Youtube  
+>   
+> Projeto criado apenas para aprendizado.  
+> Não responsabilizo pelo seu uso indevido
